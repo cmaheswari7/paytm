@@ -43,3 +43,98 @@ ll
 cat>>lin
 git commit -m "mesg" lin
 git log
+yum install git -y
+git --version
+git init .
+ll
+rm -rf *
+ll
+touch devops linux aws
+ll
+git add aws
+git status
+git config user.name mahi
+git config user.email "mahi@gmail.com"
+git commit -m "aws file commited" aws
+git log
+git branch
+git branch devops
+git checkout devops
+git branch
+ll
+git add devops
+git commit -m "msg" .
+git checkout master
+ll
+git branch
+ll
+rm -rf *
+ll
+git commit -m "deleted files" .
+ll
+touch python
+git add python
+git commit -m "version1" .
+ll
+git checkout -b mahi
+git checkout -b sand
+ll
+lllltouch java
+touch java
+ll
+git checkout master
+ll
+git checkout sand
+git commit -m "2nd version java file" java
+git add java
+git commit -m "2nd version java file" java
+git checkout master
+ll
+git checkout sad
+git checkout sand
+ll
+git checkout master
+ll
+git merge sand
+ll
+git checkout sand
+touch tcs infy ibm
+git add *
+git commint -m "tcs commited" tcs
+git commint -m "infy commited" infy
+git commit -m "infy commited" infy
+git commit -m "tcs commited" tcs
+git commit -m "ibm commited" ibm
+ll
+git log
+git checkout master
+git cherry-pick 0785ca46f2165043744508b504043937a4d98761
+ll
+git cherry-pick ba2d8f27ad2e4b5a259d2b249034dd321a63ec47
+ll
+git log
+ll
+git branch
+cat>python
+git commit -m "python file commited" python
+cat python
+git checkout sand
+cat python
+ll
+cat>python
+git commit -m "123" python
+cat python
+git checkout master
+cat pyhton
+cat python
+cat>>python
+git commit -m "2nd time python" python
+cat pyhton
+cat python
+git merge sand
+cat pyhton
+vim python
+git add python
+git commit -m "final code from developer" python
+git commit -m "final code from developer" 
+cat python
